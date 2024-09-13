@@ -1,4 +1,4 @@
-## Know Technologies
+## Known Technologies
 
 Front-end
 
