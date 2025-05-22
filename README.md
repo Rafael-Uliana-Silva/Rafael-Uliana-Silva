@@ -36,4 +36,12 @@ Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Uliana-Silva&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Uliana-Silva&layout=donut)](https://github.com/Rafael-Uliana-Silva/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rafael-Uliana-Silva&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Uliana-Silva&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Uliana-Silva&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Uliana-Silva&layout=donut)](https://github.com/Rafael-Uliana-Silva/github-readme-stats)
