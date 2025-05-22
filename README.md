@@ -36,4 +36,4 @@ Others
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Ulian-Silva)](https://github.com/Rafael-Ulian-Silva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Uliana-Silva)](https://github.com/Rafael-Uliana-Silva/github-readme-stats)
