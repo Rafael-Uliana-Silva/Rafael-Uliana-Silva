@@ -42,6 +42,3 @@ Others
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rafael-Uliana-Silva&theme=radical&layout=donut&langs_count=8&card_width=320" />
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafael-Uliana-Silva&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Uliana-Silva&layout=donut)](https://github.com/Rafael-Uliana-Silva/github-readme-stats)
